@@ -1,0 +1,328 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    width: 1895px;
+    height: 670px;
+    background: #EEEFF1;
+}
+
+.logo {
+    position: absolute;
+    width: 96px;
+    height: 60px;
+    left: 402px;
+    top: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.nav-text {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    position: absolute;
+    width: 611px;
+    height: 16px;
+    left: 896px;
+    top: 72px;
+}
+
+.nav-menu {
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-menu:hover {
+    text-decoration: underline;
+    transition: 0.6s;
+}
+
+.nav-menu:not(last-child) {
+    margin-right: 26px;
+}
+
+.main {
+    color: #34547A;
+}
+
+.frame {
+    position: absolute;
+    width: 357px;
+    height: 233.7px;
+    left: 487px;
+    top: 271px;
+}
+
+.title {
+    left: 974px;
+    top: 250px;
+    position: absolute;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+}
+
+.title-text {
+    margin-top: 30px;
+    position: absolute;
+    left: 975px;
+    top: 355px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+
+}
+
+.button {
+    margin-top: 30px;
+    position: absolute;
+    left: 975px;
+    top: 482px;
+    background: #34547A;
+    width: 225px;
+    height: 65px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.button:hover {
+    background: rgba(196, 196, 196, 0.9);
+    transition: 0.3s;
+}
+
+.text-button {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.container {
+    width: 540px;
+    height: 147px;
+    margin-left: 690px;
+    margin-top: 119px;
+}
+
+.title-info {
+
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    top: 812px;
+}
+
+.text-info {
+    margin-top: 50px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #727272;
+}
+
+.rectangle {
+    width: 1895px;
+    height: 250px;
+    margin-top: 100px;
+    background: #34547A;
+}
+
+.rectangle-text {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 26px;
+    margin-right: 50px;
+    color: #FFFFFF;
+    display: flex;
+}
+
+.container-rectangle {
+    margin-left: 405px;
+    display: flex;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.rectangle-img {
+    margin-right: 25px;
+}
+
+.rectangle-info {}
+
+.container-info_me {
+    display: flex;
+}
+
+.my-photo {
+    height: 450px;
+    margin-top: 102px;
+    margin-left: 981px;
+    position: absolute;
+}
+
+.title-me {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    margin-left: 386px;
+    margin-top: 204px;
+}
+
+.text-me-1 {
+    position: absolute;
+    width: 128px;
+    height: 15px;
+    left: 387px;
+    top: 1593px;
+    color: #727272;
+}
+
+.text-me-2 {
+    position: absolute;
+    width: 128px;
+    height: 15px;
+    left: 387px;
+    top: 1662px;
+    color: #727272;
+}
+
+.text-me-3 {
+    position: absolute;
+    width: 128px;
+    height: 15px;
+    left: 387px;
+    top: 1731px;
+    color: #727272;
+}
+
+.skils1 {
+    position: absolute;
+    width: 445px;
+    height: 4px;
+    left: 386px;
+    top: 1628px;
+    background: #C4C4C4;
+
+}
+
+.skils-long1 {
+    position: absolute;
+    width: 175px;
+    height: 4px;
+    left: 386px;
+    top: 1628.24px;
+    background: #34547A;
+    transform: rotate(-0.06deg);
+}
+
+.skils2 {
+    position: absolute;
+    width: 445px;
+    height: 4px;
+    left: 386px;
+    top: 1697px;
+
+    background: #C4C4C4;
+
+}
+
+.skils-long2 {
+
+    position: absolute;
+    width: 400px;
+    height: 4px;
+    left: 386px;
+    top: 1697px;
+    background: #34547A;
+}
+
+.skils3 {
+    position: absolute;
+    width: 445px;
+    height: 4px;
+    left: 386px;
+    top: 1766px;
+
+    background: #C4C4C4;
+}
+
+.skils-long3 {
+    position: absolute;
+    width: 250px;
+    height: 4px;
+    left: 386px;
+    top: 1766px;
+    background: #34547A;
+}
+
+.container-work {
+    position: absolute;
+    width: 1920px;
+    height: 1004px;
+    left: 0px;
+    top: 1962px;
+}
+
+.non {
+    margin-left: 600px;
+    margin-top: 50px;
+    width: 700px;
+    height: 460px;
+}
+
+.footer {
+
+    position: absolute;
+    width: 1920px;
+    height: 151px;
+    left: 0px;
+    top: 2800px;
+    background: #34547A;
+}
+
+.footer {
+    position: absolute;
+    width: 1920px;
+    height: 151px;
+    top: 2800px;
+    background: #34547A;
+}
+
+.myname {
+    position: absolute;
+    color: #FFFFFF;
+    width: 180px;
+    height: 19px;
+    left: 406px;
+    top: 58px;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.protection {
+    position: absolute;
+    width: 193px;
+    height: 12px;
+    left: 406px;
+    top: 97px;
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+.social_container {
+position: absolute;
+width: 175px;
+height: 40px;
+left: 1356px;
+top: 67px;
+}
+.vk{
+	margin-right: 10px;
+}
