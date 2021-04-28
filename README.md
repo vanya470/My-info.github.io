@@ -1,1 +1,1 @@
-# My-info.github.io
+# myinfo.github.io
